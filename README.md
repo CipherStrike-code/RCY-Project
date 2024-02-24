@@ -4,7 +4,7 @@ This executable is to help with splitting of the pdfs and the labelling of the s
 Virustotal Score: 3/72 (https://www.virustotal.com/gui/file/84db94602c272f5ab4335b370526ebc55c1b0aad6022dffacc4e1de58f20e107?nocache=1) Not a virus ok...
 
 Instruction on how to download:
-1. Click on the Pdf Splitter name.
+1. Click on PDF SPLITTER (RCY).exe.
 2. Click on view raw which will download the file.
 3. On the download icon, the download may be stop as this file is not sign with a digital signature. (I am still trying to solve this issue). Click on download suspicious file. 
 4. Click on the file after it is downloaded. Windows defender should be activated. Click on more info and run the file. 
