@@ -1,5 +1,5 @@
 # RCY-Project 1 (PDF SPLITTER)
-This is a RCY Project to help to lighten the load of the admin side for Volunteer Instructors (VIs) in events.
+This executable is to help with splitting of the pdfs and the labelling of the splitted pdfs in the following naming convention: name_school. 
 
 Instruction on how to use:
 
