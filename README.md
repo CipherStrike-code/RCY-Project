@@ -7,7 +7,14 @@ Instruction on how to download:
 1. Click on PDF SPLITTER (RCY).exe.
 2. Click on view raw which will download the file.
 3. On the download icon, the download may be stop as this file is not sign with a digital signature. (I am still trying to solve this issue). Click on download suspicious file. 
-4. Click on the file after it is downloaded. Windows defender should be activated. Click on more info and run the file. 
+4. Click on the file after it is downloaded. Windows defender should be activated. Click on more info and click on run anyway.
+
+Proceed to the following steps if the run anyway option do not appear.
+
+1. Click on the download folder.
+2. Right click on the executable.
+3. Under Security, click unblock and click apply.
+4. Try to double-click and run the file. 
 
 Instruction on how to use:
 1. Select the directory path of the pdf file that you would like to split.
